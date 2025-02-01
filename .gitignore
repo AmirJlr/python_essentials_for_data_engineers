@@ -1,5 +1,5 @@
 duckdb.db
 tpch.db
-myenv/
+pyde/
 
 __pycache__/
